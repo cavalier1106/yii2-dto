@@ -1,0 +1,23 @@
+{
+    "name": "steven/yii2-dto",
+    "description": "Yii 2 Basic Project dto",
+    "keywords": ["yii2", "framework", "basic", "dto"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "steven",
+            "email": "2023liufengsheng@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "steven\\yii\\": "src/"
+        }
+    }
+}
