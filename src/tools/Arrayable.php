@@ -1,6 +1,6 @@
 <?php
 
-namespace steven\yii\tools;
+namespace liufengsheng\yii\tools;
 
 interface Arrayable
 {

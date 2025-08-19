@@ -1,6 +1,6 @@
 <?php
 
-namespace steven\yii\tools;
+namespace liufengsheng\yii\tools;
 
 use yii\helpers\StringHelper;
 
@@ -13,7 +13,7 @@ use yii\helpers\StringHelper;
  *
  * @author  Speciallan
  * @version 1.0
- * @package steven\yii\tools
+ * @package liufengsheng\yii\tools
  */
 class Str extends StringHelper {
 

@@ -1,12 +1,12 @@
 {
-    "name": "steven/yii2-dto",
+    "name": "liufengsheng/yii2-dto",
     "description": "Yii 2 Basic Project dto",
     "keywords": ["yii2", "framework", "basic", "dto"],
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "steven",
+            "name": "liufengsheng",
             "email": "2023liufengsheng@gmail.com"
         }
     ],
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "steven\\yii\\": "src/"
+            "liufengsheng\\yii\\": "src/"
         }
     }
 }

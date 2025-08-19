@@ -1,13 +1,13 @@
 <?php
 
-namespace steven\yii\tools;
+namespace liufengsheng\yii\tools;
 
 use yii\helpers\ArrayHelper;
 
 /**
  * 数组公用函数
  * Class Arr
- * @package steven\yii\tools
+ * @package liufengsheng\yii\tools
  */
 class Arr extends ArrayHelper {
 

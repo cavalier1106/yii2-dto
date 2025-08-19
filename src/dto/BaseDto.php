@@ -1,11 +1,11 @@
 <?php
 
-namespace steven\yii\dto;
+namespace liufengsheng\yii\dto;
 
 use ArrayAccess;
-use steven\tools\Arr;
-use steven\tools\Str;
-use steven\tools\Arrayable;
+use liufengsheng\tools\Arr;
+use liufengsheng\tools\Str;
+use liufengsheng\tools\Arrayable;
 use yii\helpers\ArrayHelper;
 use yii\base\Model;
 
