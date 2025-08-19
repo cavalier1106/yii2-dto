@@ -3,12 +3,10 @@
 namespace liufengsheng\yii\dto;
 
 use ArrayAccess;
-use liufengsheng\tools\Arr;
-use liufengsheng\tools\Str;
-use liufengsheng\tools\Arrayable;
-use yii\helpers\ArrayHelper;
+use liufengsheng\yii\tools\Arr;
+use liufengsheng\yii\tools\Str;
+use liufengsheng\yii\tools\Arrayable;
 use yii\base\Model;
-
 /**
  * Class BaseDTO
  *
